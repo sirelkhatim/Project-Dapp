@@ -3,7 +3,6 @@
 ## Dependencies
 
 - Truffle: v5.1.63
-- 
 - OpenZeppelin: 2.1.2
 
 ## Token details
